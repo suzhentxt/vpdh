@@ -1,3 +1,1 @@
-# MTIC
-A website for MaskTech Informatics Club  
-https://suzhentxt.github.io/MTIC/
+Website cho đại gia đình Cộng tác viên VP Đoàn Hội UET
